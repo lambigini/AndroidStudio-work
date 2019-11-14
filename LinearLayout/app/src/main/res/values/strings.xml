@@ -3,4 +3,9 @@
     <string name="To">To</string>
     <string name="message">Message</string>
     <string name="send">Send</string>
+    <string name="how_do_you_like_your_tea_served">How do you like your tea served?</string>
+    <string name="hot">Hot</string>
+    <string name="Milk">Milk</string>
+    <string name="Sugar">Sugar</string>
+    <string name="Lemon">Lemon</string>
 </resources>
