@@ -1,4 +1,4 @@
-package com.hfad.quizapp;
+package com.example.android.quizapp;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.hfad.quizapp", appContext.getPackageName());
+        assertEquals("com.example.android.quizapp", appContext.getPackageName());
     }
 }

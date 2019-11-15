@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="your_name_editText">Your name</string>
+    <string name="first_question_population">What is population of US in 2019?</string>
+    <string name="second_question_yesNo">Is Hawaii become 50th state of US in 1949?</string>
+    <string name="third_question_cities">Which city belong to California?</string>
+    <string name="Los_Angeles">Los Angeles</string>
+    <string name="san_diego">San Diego</string>
+    <string name="nevada">Nevada</string>
+    <string name="fourth_question_city">What city is this?</string>
+    <string name="Los_Angeles_question4">Los Angeles</string>
+    <string name="New_York_question4">New York</string>
+    <string name="button_summary">Get Score</string>
 </resources>

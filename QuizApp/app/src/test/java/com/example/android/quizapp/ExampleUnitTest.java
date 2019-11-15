@@ -1,4 +1,4 @@
-package com.hfad.quizapp;
+package com.example.android.quizapp;
 
 import org.junit.Test;
 
